@@ -1,3 +1,5 @@
 # COVID-19 Corona Virus Decease
 
-Corona Virus Decease counter measures github page
+COVID-19 Corona Virus Decease github page
+
+COVID-19 Corona Virus Decease ressources: covirusd.github.io/ressources
